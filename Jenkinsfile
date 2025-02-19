@@ -1,6 +1,6 @@
 pipeline{
     agent{
-        label "jenkins-Master"
+        label "Jenkins-Master"
     }
     tools {
         jdk 'Java17'
